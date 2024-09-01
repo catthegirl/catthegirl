@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @catthegirl
+- 👋 Hi, I’m silly
 - 👀 I’m interested in doing stuff
-- 🌱 I’m currently learning typescript and react
-- 💞️ I’m looking to collaborate on smaller projects
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to idk
 - 📫 How to reach me loftus.caterina@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm tired
